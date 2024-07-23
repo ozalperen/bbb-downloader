@@ -5,6 +5,6 @@
   "repository": {},
   "license": "MIT",
   "dependencies": {
-    "selenium-webdriver": "^3.3.0"
+    "selenium-webdriver": "^4.23.0"
   }
 }
